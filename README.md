@@ -3,7 +3,7 @@
 Our Team JKVT finished third of the challenge it was compose of four people:
 
  * Jérémie Peres, [jeremieperes](https://github.com/jeremieperes)
- * Kévin Ferin, 
+ * Kévin Ferin, [KevinFerin](https://github.com/KevinFerin)
  * Vincent Richard, [vincrichard](https://github.com/vincrichard)
  * Thomas Rivière [t-riviere](https://github.com/t-riviere) 
 
